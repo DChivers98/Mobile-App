@@ -13,7 +13,7 @@ Key Features:
 * Real time basket updates for all users that are part of the order.
 * Individual payment (simulated).
 
-
+# User Interface
 
 ![image](https://github.com/user-attachments/assets/f966ae6b-5b57-409b-99d6-841d949aca0c)
 ![image](https://github.com/user-attachments/assets/9c8b09c1-6af0-4bb2-a7a6-8b94536eae2f)
